@@ -10,6 +10,7 @@ It consists of convolutional layer->pooling layer->connection layer to produce t
 
 Module 3: Visual representation
 The series of frames are merged using the image to video converter and shown for visual representation
+
 ![lane](https://user-images.githubusercontent.com/68988574/189522351-5e85058b-bc9b-48d0-8234-2eeb417480cd.jpg)
 ![Lane-detect](https://user-images.githubusercontent.com/68988574/189522355-2874dbf0-0ab0-4ab3-b270-53adcdeef486.jpg)
 
